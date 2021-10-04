@@ -1,0 +1,360 @@
+{
+  "activities": [
+    {
+      "Activity": "Conquer one of your fears",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 29
+    },
+    {
+      "Activity": "Donate blood at a local blood center",
+      "Type": "charity",
+      "Participants": 1,
+      "id": 30
+    },
+    {
+      "Activity": "Have a bonfire with your close friends",
+      "Type": "social",
+      "Participants": 4,
+      "id": 31
+    },
+    {
+      "Activity": "Learn GraphQL",
+      "Type": "education",
+      "Participants": 1,
+      "id": 32
+    },
+    {
+      "Activity": "Learn how to beatbox",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 33
+    },
+    {
+      "Activity": "Catch up with a friend over a lunch date",
+      "Type": "social",
+      "Participants": 2,
+      "id": 34
+    },
+    {
+      "Activity": "Start a webinar on a topic of your choice",
+      "Type": "education",
+      "Participants": 1,
+      "id": 35
+    },
+    {
+      "Activity": "Organize your basement",
+      "Type": "busywork",
+      "Participants": 1,
+      "id": 36
+    },
+    {
+      "Activity": "Explore a park you have never been to before",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 37
+    },
+    {
+      "Activity": "Learn Kotlin",
+      "Type": "education",
+      "Participants": 1,
+      "id": 38
+    },
+    {
+      "Activity": "Go to a local thrift shop",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 39
+    },
+    {
+      "Activity": "Start a garden",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 40
+    },
+    {
+      "Activity": "Play basketball with a group of friends",
+      "Type": "social",
+      "Participants": 5,
+      "id": 41
+    },
+    {
+      "Activity": "Watch a Khan Academy lecture on a subject of your choosing",
+      "Type": "education",
+      "Participants": 1,
+      "id": 42
+    },
+    {
+      "Activity": "Make a new friend",
+      "Type": "social",
+      "Participants": 1,
+      "id": 43
+    },
+    {
+      "Activity": "Pot some plants and put them around your house",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 44
+    },
+    {
+      "Activity": "Learn to write with your nondominant hand",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 45
+    },
+    {
+      "Activity": "Go to the library and find an interesting book",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 46
+    },
+    {
+      "Activity": "Have a paper airplane contest with some friends",
+      "Type": "social",
+      "Participants": 4,
+      "id": 47
+    },
+    {
+      "Activity": "Try a food you don't like",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 48
+    },
+    {
+      "Activity": "Start a blog for something you're passionate about",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 49
+    },
+    {
+      "Activity": "Buy a new house decoration",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 50
+    },
+    {
+      "Activity": "Cook something together with someone",
+      "Type": "cooking",
+      "Participants": 2,
+      "id": 51
+    },
+    {
+      "Activity": "Make a to-do list for your week",
+      "Type": "busywork",
+      "Participants": 1,
+      "id": 52
+    }
+  ],
+  "favorites": [
+    {
+      "Activity": "Learn and play a new card game",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 1
+    },
+    {
+      "Activity": "Pot some plants and put them around your house",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 2
+    },
+    {
+      "Activity": "Learn to write with your nondominant hand",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 3
+    },
+    {
+      "Activity": "Prepare a dish from a foreign culture",
+      "Type": "cooking",
+      "Participants": 1,
+      "id": 4
+    },
+    {
+      "Activity": "Organize a cluttered drawer",
+      "Type": "busywork",
+      "Participants": 1,
+      "id": 5
+    },
+    {
+      "Activity": "Hold a video game tournament with some friends",
+      "Type": "social",
+      "Participants": 4,
+      "id": 6
+    },
+    {
+      "Activity": "Resolve a problem you've been putting off",
+      "Type": "busywork",
+      "Participants": 1,
+      "id": 7
+    },
+    {
+      "Activity": "Look at your finances and find one way to save money",
+      "Type": "busywork",
+      "Participants": 1,
+      "id": 8
+    },
+    {
+      "Activity": "Surprise your significant other with something considerate",
+      "Type": "social",
+      "Participants": 1,
+      "id": 9
+    },
+    {
+      "Activity": "Watch the sunset or the sunrise",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 10
+    },
+    {
+      "Activity": "Give your pet ten minutes of focused attention",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 11
+    },
+    {
+      "Activity": "Learn how to use an Arduino",
+      "Type": "education",
+      "Participants": 1,
+      "id": 12
+    },
+    {
+      "Activity": "Watch the sunset or the sunrise",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 13
+    },
+    {
+      "Activity": "Learn how to play a new sport",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 14
+    },
+    {
+      "Activity": "Plant a tree",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 15
+    },
+    {
+      "Activity": "Go on a long drive with no music",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 16
+    },
+    {
+      "Activity": "Clean out your garage",
+      "Type": "busywork",
+      "Participants": 1,
+      "id": 17
+    },
+    {
+      "Activity": "Start a daily journal",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 18
+    },
+    {
+      "Activity": "Play a game of Monopoly",
+      "Type": "social",
+      "Participants": 4,
+      "id": 19
+    },
+    {
+      "Activity": "Pull a harmless prank on one of your friends",
+      "Type": "social",
+      "Participants": 1,
+      "id": 20
+    },
+    {
+      "Activity": "Write a list of things you are grateful for",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 21
+    },
+    {
+      "Activity": "Start a webinar on a topic of your choice",
+      "Type": "education",
+      "Participants": 1,
+      "id": 22
+    },
+    {
+      "Activity": "Pick up litter around your favorite park",
+      "Type": "charity",
+      "Participants": 1,
+      "id": 23
+    },
+    {
+      "Activity": "Pick up litter around your favorite park",
+      "Type": "charity",
+      "Participants": 1,
+      "id": 24
+    },
+    {
+      "Activity": "Mow your neighbor's lawn",
+      "Type": "charity",
+      "Participants": 1,
+      "id": 25
+    },
+    {
+      "Activity": "Clean out your refrigerator",
+      "Type": "busywork",
+      "Participants": 1,
+      "id": 26
+    },
+    {
+      "Activity": "Make your own LEGO creation",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 27
+    },
+    {
+      "Activity": "Make a scrapbook with pictures of your favorite memories",
+      "Type": "diy",
+      "Participants": 1,
+      "id": 28
+    },
+    {
+      "Activity": "Play a game of Monopoly",
+      "Type": "social",
+      "Participants": 4,
+      "id": 29
+    },
+    {
+      "Activity": "Watch the sunset or the sunrise",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 30
+    },
+    {
+      "Activity": "Learn the periodic table",
+      "Type": "education",
+      "Participants": 1,
+      "id": 31
+    },
+    {
+      "Activity": "Listen to a new podcast",
+      "Type": "relaxation",
+      "Participants": 1,
+      "id": 32
+    },
+    {
+      "Activity": "Bake pastries for you and your neighbor",
+      "Type": "cooking",
+      "Participants": 1,
+      "id": 33
+    },
+    {
+      "Activity": "Practice coding in your favorite lanaguage",
+      "Type": "recreational",
+      "Participants": 1,
+      "id": 34
+    },
+    {
+      "Activity": "Memorize a favorite quote or poem",
+      "Type": "education",
+      "Participants": 1,
+      "id": 35
+    }
+  ]
+}
